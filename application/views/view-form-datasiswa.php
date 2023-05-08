@@ -17,6 +17,8 @@ method="post">
  <td colspan="3"<hr>
  </td>
  </tr>
+ <br>
+ <br>
  <tr>
  <th>Nama Siswa</th>
  <th>:</th>
@@ -82,7 +84,7 @@ method="post">
  </select>
  </td>
  </tr>
- <tr>
+ <tr>   
  <td colspan="3" align="center">
  <input type="submit" value="Submit">
  </td>

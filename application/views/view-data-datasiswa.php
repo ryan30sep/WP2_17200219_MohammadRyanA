@@ -24,14 +24,14 @@
  </tr>
  <tr>
  <th>Nomor Induk Sekolah</th>
- <td>:</td>
+ <th>:</th>
  <td>
  <?= $nis; ?>
  </td>
  </tr>
  <tr>
  <th>Kelas</th>
- <td>:</td>
+ <th>:</th>
  <td>
  <?= $kelas; ?>
  </td>
